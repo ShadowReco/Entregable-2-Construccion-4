@@ -1,0 +1,14 @@
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable1Actividad2\Entregable1Actividad2\bin\Debug\net8.0\Entregable1Actividad2.exe
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable1Actividad2\Entregable1Actividad2\bin\Debug\net8.0\Entregable1Actividad2.deps.json
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable1Actividad2\Entregable1Actividad2\bin\Debug\net8.0\Entregable1Actividad2.runtimeconfig.json
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable1Actividad2\Entregable1Actividad2\bin\Debug\net8.0\Entregable1Actividad2.dll
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable1Actividad2\Entregable1Actividad2\bin\Debug\net8.0\Entregable1Actividad2.pdb
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable1Actividad2\Entregable1Actividad2\obj\Debug\net8.0\Entregable1Actividad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable1Actividad2\Entregable1Actividad2\obj\Debug\net8.0\Entregable1Actividad2.AssemblyInfoInputs.cache
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable1Actividad2\Entregable1Actividad2\obj\Debug\net8.0\Entregable1Actividad2.AssemblyInfo.cs
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable1Actividad2\Entregable1Actividad2\obj\Debug\net8.0\Entregable1Actividad2.csproj.CoreCompileInputs.cache
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable1Actividad2\Entregable1Actividad2\obj\Debug\net8.0\Entregable1Actividad2.dll
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable1Actividad2\Entregable1Actividad2\obj\Debug\net8.0\refint\Entregable1Actividad2.dll
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable1Actividad2\Entregable1Actividad2\obj\Debug\net8.0\Entregable1Actividad2.pdb
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable1Actividad2\Entregable1Actividad2\obj\Debug\net8.0\Entregable1Actividad2.genruntimeconfig.cache
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable1Actividad2\Entregable1Actividad2\obj\Debug\net8.0\ref\Entregable1Actividad2.dll
